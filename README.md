@@ -1,3 +1,3 @@
-# flask-api-template
+# Flask api for "my starpage" project
 
-[Länk till sidan](http://people.arcada.fi/~heikkihe/Projekt%202/)
+This is the flask api for handling the ToDo app.
